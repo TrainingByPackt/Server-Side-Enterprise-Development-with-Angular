@@ -1,2 +1,2 @@
-# Server-Side-Enterprise-Development-with-Angular-6
-Code for Server-Side Enterprise Development with Angular 6, published by Packt
+# Server-Side-Enterprise-Development-with-Angular
+Code for Server-Side Enterprise Development with Angular, published by Packt
