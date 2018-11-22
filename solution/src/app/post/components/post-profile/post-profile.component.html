@@ -1,0 +1,10 @@
+<div class="media" *ngIf="profile">
+  <img class="avatar mr-3 rounded" [attr.src]="profile.avatar" [attr.alt]="profile.fullName">
+  <div class="media-body">
+    <h5>
+      {{profile.fullName}}
+    </h5>
+    <ng-content></ng-content>
+  </div>
+ </div>
+ 
