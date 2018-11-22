@@ -1,0 +1,69 @@
+Reality itself is too obvious to be true. — Jean Baudrillard
+Be yourself; everyone else is already taken. — Oscar Wilde
+Let me just change this one line of code… — Unknown
+Fast, Good, Cheap. Pick two. — Unknown
+Did you know? The collective noun for a group of programmers is a merge-conflict. — Unknown
+If there is no struggle, there is no progress. — Frederick Douglass
+You have to learn the rules of the game. And then you have to play better than anyone else. — Albert Einstein
+Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. — Albert Einstein
+Insanity: doing the same thing over and over again and expecting different results. — Albert Einstein
+A person who never made a mistake never tried anything new. — Albert Einstein
+Logic will get you from A to B. Imagination will take you everywhere. — Albert Einstein
+When the solution is simple, God is answering. — Albert Einstein
+If you can´t explain it simply, you don´t understand it well enough. — Albert Einstein
+If the facts don´t fit the theory, change the facts. — Albert Einstein
+It is a miracle that curiosity survives formal education. — Albert Einstein
+I only believe in statistics that I doctored myself. — Winston S. Churchill?
+Men and nations behave wisely when they have exhausted all other resources. — Abba Eban
+If you´re going through hell, keep going. — Unknown
+Success is not forever and failure isn´t fatal. — Don Shula
+I have never let my schooling interfere with my education. — Mark Twain
+The secret of getting ahead is getting started. — Mark Twain
+Get your facts first, then you can distort them as you please. — Mark Twain
+Apparently there is nothing that cannot happen today. — Mark Twain
+Plans are worthless, but planning is everything. — Dwight D. Eisenhower
+Before you marry a person you should first make them use a computer with slow Internet to see who they really are. — Will Ferrell
+I just invent, then wait until man comes around to needing what I´ve invented. — R. Buckminster Fuller
+The best way to make your dreams come true is to wake up. — Muriel Siebert
+If you can't write it down in English, you can't code it. — Peter Halpern
+Suspicion is healthy. It’ll keep you alive. — Laurell K. Hamilton
+People that hate cats will come back as mice in their next life. — Faith Resnick
+If your parents never had children, chances are you won’t, either. — Dick Cavett
+Sometimes I think we´re alone in the universe & sometimes I think we´re not. In either case the idea is quite staggering — Arthur C. Clarke
+Talk is cheap, show me the code! — Linus Torvalds
+They did not know it was impossible, so they did it! — Mark Twain
+You are what you share. — Charles Leadbeater
+You want it in one line? Does it have to fit in 80 columns? — Larry Wall
+The Internet? Is that thing still around? — Homer Simpson
+The journey is the destination. — Dan Eldon
+OO programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches. — Paul Graham
+Ruby is rubbish! PHP is phpantastic! — Nikita Popov
+So long and thanks for all the fish! — Douglas Adams
+If I had more time, I would have written a shorter letter. — Cicero
+The best reaction to \"this is confusing, where are the docs\" is to rewrite the feature to make it less confusing, not write more docs. — Jeff Atwood
+The older I get, the more I believe that the only way to become a better programmer is by not programming. — Jeff Atwood
+\"That hardly ever happens\" is another way of saying \"it happens\". — Douglas Crockford
+Hello, PHP, my old friend. — Anna Debenham
+Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations. — Melvin Conway
+In design, complexity is toxic. — Melvin Conway
+Good is the enemy of great, but great is the enemy of shipped. — Jeffrey Zeldman
+Don't make the user provide information that the system already knows. — Rick Lemons
+You're bound to be unhappy if you optimize everything. — Donald E. Knuth
+If the programmers like each other, they play a game called 'pair programming'. And if not then the game is called 'peer review'. — Anna Nachesa
+Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
+Focus on WHY instead of WHAT in your code will make you a better developer — Jordi Boggiano
+The best engineers I know are artists at heart. The best designers I know are secretly technicians as well. — Andrei Herasimchuk
+Poor management can increase software costs more rapidly than any other factor. — Barry Boehm
+If you can't deploy your services independently then they aren't microservices. — Daniel Bryant
+If you can't deploy your services independently then they aren't microservices. — Daniel Bryant
+No one hates software more than software developers. — Jeff Atwood
+The proper use of comments is to compensate for our failure to express ourself in code. — Robert C. Martin
+Code is like humor. When you have to explain it, it's bad. — Cory House
+Fix the cause, not the symptom. — Steve Maguire
+Programmers are constantly making things more complicated than they need to be BECAUSE FUTURE. Fuck the future. Program for today. — David Heinemeier Hansson
+People will realize that software is not a product; you use it to build a product. — Linus Torvalds
+Design is choosing how you will fail. — Ron Fein
+Focus is saying no to 1000 good ideas. — Steve Jobs
+Code never lies, comments sometimes do. — Ron Jeffries
+Be careful with each other, so you can be dangerous together. — Unknown
+If you make something idiot proof, someone will just make a better idiot. — Unknown

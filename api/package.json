@@ -1,0 +1,50 @@
+{
+  "name": "packt-angular-seo-api",
+  "version": "1.0.0",
+  "main": "server/server.js",
+  "now": {
+    "version": 1,
+    "name": "packt-angular-social-api",
+    "alias": [
+      "packt-angular-social-api",
+      "packt-angular-social"
+    ],
+    "env": {
+      "IMAGE_ROOT": "https://packt-angular-social.now.sh/"
+    }
+  },
+  "scripts": {
+    "dev": "nodemon server/server.js --watch common --watch server",
+    "lint": "eslint .",
+    "start": "node .",
+    "posttest": "npm run lint && nsp check",
+    "now:deploy": "now",
+    "now:alias": "now alias",
+    "now": "npm run now:deploy && npm run now:alias"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "compression": "^1.0.3",
+    "cors": "^2.5.2",
+    "faker": "^4.1.0",
+    "helmet": "^1.3.0",
+    "loopback": "^3.0.0",
+    "loopback-boot": "^2.6.5",
+    "loopback-component-explorer": "^4.0.0",
+    "loopback-ds-paginate-mixin": "^1.1.1",
+    "serve-favicon": "^2.0.1",
+    "strong-error-handler": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "eslint-config-loopback": "^4.0.0",
+    "nodemon": "^1.12.1",
+    "nsp": "^2.1.0"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "UNLICENSED",
+  "description": "packt-angular-social-api"
+}
