@@ -1,0 +1,12 @@
+<div class="card">
+  <div class="card-body" *ngIf="post">
+    <app-post-profile [profile]="post.profile">
+      <div class="my-2">
+        <a [routerLink]="['/posts', post.id]" class="text-muted">
+          {{ post.date | date: 'medium' }}
+        </a>
+      </div>
+      <p>{{post.text}}</p>
+    </app-post-profile>
+  </div>
+</div>

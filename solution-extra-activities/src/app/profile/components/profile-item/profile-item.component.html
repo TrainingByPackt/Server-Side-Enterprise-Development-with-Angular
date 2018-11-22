@@ -1,0 +1,11 @@
+<div class="media" *ngIf="profile">
+  <img class="avatar mr-3 rounded" [attr.src]="profile.avatar" [attr.alt]="profile.fullName">
+  <div class="media-body">
+    <a [routerLink]="['/profiles', profile.id]">
+      <h5>
+        {{profile.fullName}}
+      </h5>
+    </a>
+    <app-profile-post [posts]="profile.posts"></app-profile-post>
+  </div>
+</div>
