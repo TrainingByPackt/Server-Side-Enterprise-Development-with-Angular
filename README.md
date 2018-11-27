@@ -13,18 +13,18 @@ This fast-paced book shows you how to use features of the latest version of Angu
 
 ### Hardware Requirements
 For the optimal student experience, we recommend the following hardware configuration:
-* Processor: i3
-* Memory: 2 GB RAM
-* Hard disk: 10 GB
+* __Processor__: i3
+* __Memory__: 2 GB RAM
+* __Hard disk__: 10 GB
 * An internet connection
 
 ### Software Requirements
 You'll also need the following software installed in advance:
-* Operating System: Windows 10
+* __Operating System__: Windows 10
 * Node 8.9.0 or higher
 * npm 5.5.1 or higher
 * Git
-* Internet Browser: Google Chrome (latest version)
+* __Internet Browser__: Google Chrome (latest version)
 
 ### Installation
 To verify the installed versions, run the `node -v` and `npm -v` commands in a terminal. If you want to install or upgrade to the latest version, please visit https://nodejs.org/.
